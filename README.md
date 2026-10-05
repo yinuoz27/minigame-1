@@ -1,6 +1,2 @@
-# Minigame 1
-## Devlog
-Write your Devlog here. Delete instructional text like this line! And don't forget that you have to hit ENTER twice to create a new paragraph.
-## Open-Source Assets
-- [Starter first-person assets](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
-- [Low poly platformer kit](https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 )
+I compare making Unity games to running a restaurant. The scene is where everything happens in the restaurant itself. The game object is the dishes on the menu: players, platforms, gold coins, spikes. The components are the recipes and tools behind each dish. One recipe tells players how to move, and the other makes the gold coins disappear when touched. Without the restaurant, the dishes have nowhere to be served; without dishes, the menu is just paper; and without recipes, nothing ever gets cooked.
+
